@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../IfElse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IfElse/src/lesson10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IfElse/src/lesson11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IfElse/src/lesson12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IfElse/src/lesson8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IfElse/src/lesson9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fib/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IfElse/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/src/lesson7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IfElse/src/lesson7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
