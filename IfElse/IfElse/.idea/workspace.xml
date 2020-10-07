@@ -7,9 +7,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="IfElse" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -17,18 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="Z:\10 classs\java\IfElse\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1i8RabnRiWPvDiFUD0bDi2ZA4L0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,16 +22,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson12.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson6.Main" />
       <module name="IfElse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson12.*" />
+          <option name="PATTERN" value="lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,38 +38,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson8.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Main" />
       <module name="IfElse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson9.Main" />
-      <module name="IfElse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson11.Main" />
-      <module name="IfElse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson11.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +52,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson10.Main" />
+      <option name="MAIN_CLASS_NAME" value="lesson2.Main" />
       <module name="IfElse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson10.*" />
+          <option name="PATTERN" value="lesson2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,6 +70,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson4.Main2" />
+      <module name="IfElse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -180,42 +152,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1601895943782">
+    <state width="1143" height="281" key="GridCell.Tab.0.bottom" timestamp="1601385060649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601895943782" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1601895943782">
+    <state width="1143" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601385060649" />
+    <state width="1143" height="281" key="GridCell.Tab.0.center" timestamp="1601385060649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601895943782" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1601895943782">
+    <state width="1143" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601385060649" />
+    <state width="1143" height="281" key="GridCell.Tab.0.left" timestamp="1601385060648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601895943782" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1601895943782">
+    <state width="1143" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601385060648" />
+    <state width="1143" height="281" key="GridCell.Tab.0.right" timestamp="1601385060649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601895943782" />
-    <state width="1143" height="347" key="GridCell.Tab.1.bottom" timestamp="1601396368916">
+    <state width="1143" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601385060649" />
+    <state width="1143" height="347" key="GridCell.Tab.1.bottom" timestamp="1601382084105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1143" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601396368916" />
-    <state width="1143" height="347" key="GridCell.Tab.1.center" timestamp="1601396368916">
+    <state width="1143" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601382084105" />
+    <state width="1143" height="347" key="GridCell.Tab.1.center" timestamp="1601382084105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1143" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601396368916" />
-    <state width="1143" height="347" key="GridCell.Tab.1.left" timestamp="1601396368916">
+    <state width="1143" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601382084105" />
+    <state width="1143" height="347" key="GridCell.Tab.1.left" timestamp="1601382084105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1143" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601396368916" />
-    <state width="1143" height="347" key="GridCell.Tab.1.right" timestamp="1601396368916">
+    <state width="1143" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601382084105" />
+    <state width="1143" height="347" key="GridCell.Tab.1.right" timestamp="1601382084105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1143" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601396368916" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1601986428818">
+    <state width="1143" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601382084105" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1601381566006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601986428818" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601381566006" />
     <state x="981" y="244" key="run.anything.popup" timestamp="1601385301985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

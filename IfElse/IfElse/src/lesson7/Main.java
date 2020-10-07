@@ -8,6 +8,6 @@ public class Main {
         System.out.println("Введите a");
         int a = s.nextInt();
         Boolean b = (a % 2 == 0) | (a % 3 == 0);    //a
-        System.out.println("Целое А кратно двум или трём = " + b);
+        System.out.println("Целое А кратно двум или трём" + b);
     }
 }
