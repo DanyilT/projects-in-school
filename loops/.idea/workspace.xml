@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_rec1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop_rec2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_rec3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loops/fib/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fib.Main" />
       <module name="loops" />
@@ -80,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_rec3.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_rec3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson1.Main" />
       <module name="loops" />
@@ -95,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
@@ -128,25 +140,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1602500671059">
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom" timestamp="1602593270530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602500671059" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1602500671059">
+    <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602593270530" />
+    <state width="1877" height="338" key="GridCell.Tab.0.center" timestamp="1602593270529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602500671059" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1602500671059">
+    <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602593270529" />
+    <state width="1877" height="338" key="GridCell.Tab.0.left" timestamp="1602593270529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602500671059" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1602500671059">
+    <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602593270529" />
+    <state width="1877" height="338" key="GridCell.Tab.0.right" timestamp="1602593270530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602500671059" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1602496288811">
+    <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602593270530" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1602593195385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602496288811" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602593195385" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1602593195384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602593195384" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1602593195384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602593195384" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1602593195384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602593195384" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1602593219122">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602593219122" />
   </component>
 </project>
