@@ -1,4 +1,4 @@
-package lesson2_IfElse;    //задачи на ветвление  //№5(Операції порівняння. Формат  boolean.  Оператори if та if-else.)
+package lesson_IfElse_1;    //задачи на ветвление  //№5(Операції порівняння. Формат  boolean.  Оператори if та if-else.)
 
 import java.util.Scanner;
 

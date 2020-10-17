@@ -1,4 +1,4 @@
-package lesson1_line2D;    //line2D  //№10(Система Git. Ресурси github. Команди)
+package lesson_line2D_1;    //line2D  //№10(Система Git. Ресурси github. Команди)
 
 import java.util.Scanner;
 
