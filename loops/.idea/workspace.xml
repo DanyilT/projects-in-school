@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_tr/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop_vl/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
@@ -11,57 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../IfElse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/IfElse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/out/production/IfElse/META-INF/IfElse.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/out/production/IfElse/lesson1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/out/production/IfElse/lesson2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/out/production/IfElse/lesson3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/out/production/IfElse/lesson4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/out/production/IfElse/lesson5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/IfElse/src/lesson7/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/L2_08_09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/out/production/L2_08_09/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L2_08_09/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/L3_08_09.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/out/production/L3_08_09/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/L3_08_09/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/chapter1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/out/production/chapter1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/chapter1/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/out/production/IfElse/META-INF/IfElse.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/src_old/line1/lesson_21_09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/src_old/line2/lesson1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse/src_old/line3/lesson1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_tr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_tr/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/IfElse/META-INF/IfElse.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson1/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson10/Main.class" beforeDir="false" />
@@ -226,22 +175,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1010" height="371" key="GridCell.Tab.0.bottom" timestamp="1603102560912">
+    <state width="1180" height="440" key="GridCell.Tab.0.bottom" timestamp="1603105610182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="371" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603102560912" />
-    <state width="1010" height="371" key="GridCell.Tab.0.center" timestamp="1603102560912">
+    <state width="1180" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610182" />
+    <state width="1180" height="440" key="GridCell.Tab.0.center" timestamp="1603105610167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="371" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603102560912" />
-    <state width="1010" height="371" key="GridCell.Tab.0.left" timestamp="1603102560912">
+    <state width="1180" height="440" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610167" />
+    <state width="1180" height="440" key="GridCell.Tab.0.left" timestamp="1603105610167">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="371" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603102560912" />
-    <state width="1010" height="371" key="GridCell.Tab.0.right" timestamp="1603102560912">
+    <state width="1180" height="440" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610167" />
+    <state width="1180" height="440" key="GridCell.Tab.0.right" timestamp="1603105610182">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="371" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603102560912" />
+    <state width="1180" height="440" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610182" />
     <state width="1010" height="347" key="GridCell.Tab.1.bottom" timestamp="1603101485836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
