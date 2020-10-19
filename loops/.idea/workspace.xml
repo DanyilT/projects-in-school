@@ -2,43 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IfElse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/loop_tr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_tr/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/META-INF/IfElse.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson10/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson11/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson12/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson5/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson7/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson8/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/IfElse/lesson9/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson10/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson11/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson12/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson6/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson7/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson8/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/lesson9/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src_old/line1/lesson_21_09.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src_old/line2/lesson1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src_old/line3/lesson1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,21 +141,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1180" height="440" key="GridCell.Tab.0.bottom" timestamp="1603105610182">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603118108875">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1603118108875" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603123649903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603123649903" />
     <state width="1180" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610182" />
-    <state width="1180" height="440" key="GridCell.Tab.0.center" timestamp="1603105610167">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603123649901">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603123649901" />
     <state width="1180" height="440" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610167" />
-    <state width="1180" height="440" key="GridCell.Tab.0.left" timestamp="1603105610167">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603123649900">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603123649900" />
     <state width="1180" height="440" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610167" />
-    <state width="1180" height="440" key="GridCell.Tab.0.right" timestamp="1603105610182">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603123649902">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603123649902" />
     <state width="1180" height="440" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610182" />
     <state width="1010" height="347" key="GridCell.Tab.1.bottom" timestamp="1603101485836">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -207,9 +181,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1010" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603101485836" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603099907866">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="466" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1603118014751">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="466" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1603118014751" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603099907866" />
   </component>
 </project>
