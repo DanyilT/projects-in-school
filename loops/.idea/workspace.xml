@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="">
+    <list default="true" id="46800101-b31c-4c2a-8411-9ec00639d6ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/loop_del/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_sum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop_tr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_tr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/lesson1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/loop_rec1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/loop_rec2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/loop_rec3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/loop_tr/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/loop_vl/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projectline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projectline/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projectline/out/production/projectline/META-INF/projectline.kotlin_module" beforeDir="false" />
     </list>
->>>>>>> daa97c9c1eeeb757961dfb94af0ea30ceff34adf
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,14 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="Z:\10 classs\java\loops\.idea" />
-      </set>
-    </option>
-  </component>
-  <component name="ProjectId" id="1iXcYP0JzBYiDsI2NcG5NlYH3XK" />
+  <component name="ProjectId" id="1jjdGOF8iaGdAYfT15Q9S475peZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,10 +44,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_rec1.Main" />
-      <module name="loops" />
+      <module name="loop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="loop_rec1.*" />
@@ -57,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop_rec2.Main" />
-      <module name="loops" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_sum.Main" />
+      <module name="loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop_rec2.*" />
+          <option name="PATTERN" value="loop_sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,9 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_del.Main" />
+      <module name="loop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_del.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop_rec3.Main" />
-      <module name="loops" />
+      <module name="loop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="loop_rec3.*" />
@@ -83,25 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop_vl.Main" />
-      <module name="loops" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop_vl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop_tr.Main" />
-      <module name="loops" />
+      <option name="MAIN_CLASS_NAME" value="loop_rec2.Main" />
+      <module name="loop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop_tr.*" />
+          <option name="PATTERN" value="loop_rec2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -136,85 +137,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ef25e927-cc39-4d71-a6ce-39bbab235786" name="Default Changelist" comment="" />
-      <created>1602057424326</created>
+      <changelist id="46800101-b31c-4c2a-8411-9ec00639d6ff" name="Default Changelist" comment="" />
+      <created>1604321337495</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602057424326</updated>
+      <updated>1604321337495</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-<<<<<<< HEAD
-    <state width="1010" height="347" key="GridCell.Tab.0.bottom" timestamp="1603105916621">
+    <state width="1860" height="316" key="GridCell.Tab.0.bottom" timestamp="1604322178397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.0.center" timestamp="1603105916621">
+    <state width="1860" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
+    <state width="1860" height="316" key="GridCell.Tab.0.center" timestamp="1604322178397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.0.left" timestamp="1603105916621">
+    <state width="1860" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
+    <state width="1860" height="316" key="GridCell.Tab.0.left" timestamp="1604322178397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.0.right" timestamp="1603105916621">
+    <state width="1860" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
+    <state width="1860" height="316" key="GridCell.Tab.0.right" timestamp="1604322178397">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.1.bottom" timestamp="1603105916621">
-=======
-    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603118108875">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1603118108875" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1603123649903">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603123649903" />
-    <state width="1180" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610182" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1603123649901">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603123649901" />
-    <state width="1180" height="440" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610167" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1603123649900">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603123649900" />
-    <state width="1180" height="440" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610167" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1603123649902">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603123649902" />
-    <state width="1180" height="440" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603105610182" />
-    <state width="1010" height="347" key="GridCell.Tab.1.bottom" timestamp="1603101485836">
->>>>>>> daa97c9c1eeeb757961dfb94af0ea30ceff34adf
+    <state width="1860" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
+    <state width="1860" height="367" key="GridCell.Tab.1.bottom" timestamp="1604322117853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.1.center" timestamp="1603105916621">
+    <state width="1860" height="367" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604322117853" />
+    <state width="1860" height="367" key="GridCell.Tab.1.center" timestamp="1604322117853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.1.left" timestamp="1603105916621">
+    <state width="1860" height="367" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604322117853" />
+    <state width="1860" height="367" key="GridCell.Tab.1.left" timestamp="1604322117853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1010" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state width="1010" height="347" key="GridCell.Tab.1.right" timestamp="1603105916621">
+    <state width="1860" height="367" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604322117853" />
+    <state width="1860" height="367" key="GridCell.Tab.1.right" timestamp="1604322117853">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-<<<<<<< HEAD
-    <state width="1010" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603105916621" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1603099907866">
+    <state width="1860" height="367" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604322117853" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604321341791">
       <screen x="0" y="0" width="1920" height="1040" />
-=======
-    <state width="1010" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603101485836" />
-    <state x="466" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1603118014751">
-      <screen x="0" y="0" width="1366" height="728" />
->>>>>>> daa97c9c1eeeb757961dfb94af0ea30ceff34adf
     </state>
-    <state x="466" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1603118014751" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603099907866" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604321341791" />
   </component>
 </project>
