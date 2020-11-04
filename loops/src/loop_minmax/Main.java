@@ -4,18 +4,16 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner s = new Scanner(System.in);
+    private static int MAX_VALUE;
     public static void main(String[] args) {
-        System.out.println("Введите число");
-        int max = 0;
-        int min = 0;
+        int max = MAX_VALUE;
         int x = 1;
         while (x <= 5){
             System.out.println("Введите " + x + " число");
             int a = s.nextInt();
-            if (a > max) max = a;
-            if (a > min) min = a;
+            if (a >= max) max = a;
             x++;
         }
-        System.out.println("Максимальное число " + max + "; Минимальное число " + min);
+        System.out.println("Максимальное число " + max);
     }
 }

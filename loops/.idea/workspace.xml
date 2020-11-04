@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46800101-b31c-4c2a-8411-9ec00639d6ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop_minmax/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/lesson1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/lesson1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_del/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_del/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_rec1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_rec1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_rec2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_rec2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_rec3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_rec3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_sum/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_sum/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_tr/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_tr/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loop/loop_vl/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loop/loop_vl/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop_del/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_del/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop_minmax/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_minmax/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,25 +138,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="534" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1604429919826" />
-    <state width="663" height="192" key="GridCell.Tab.0.bottom" timestamp="1604431432561">
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1604503768496">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="663" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604431432561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604503768496" />
     <state width="1860" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
-    <state width="663" height="192" key="GridCell.Tab.0.center" timestamp="1604431432561">
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1604503768496">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="663" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604431432561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604503768496" />
     <state width="1860" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
-    <state width="663" height="192" key="GridCell.Tab.0.left" timestamp="1604431432561">
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1604503768496">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="663" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604431432561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604503768496" />
     <state width="1860" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
-    <state width="663" height="192" key="GridCell.Tab.0.right" timestamp="1604431432561">
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1604503768496">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="663" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604431432561" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604503768496" />
     <state width="1860" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
     <state width="1860" height="367" key="GridCell.Tab.1.bottom" timestamp="1604322117853">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -184,10 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1860" height="367" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604322117853" />
-    <state x="466" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1604429784633">
+    <state x="466" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1604501843973">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="466" y="254" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1604429784633" />
+    <state x="466" y="254" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1604501843973" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604321341791" />
   </component>
 </project>
