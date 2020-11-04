@@ -1,4 +1,4 @@
-package loop_minmax;
+package loop_max;
 
 import java.util.Scanner;
 
