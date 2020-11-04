@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46800101-b31c-4c2a-8411-9ec00639d6ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop_minmax/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop_max/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JAVA/home" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RunManager" selected="Application.Main (4)">
@@ -138,25 +137,29 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="534" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1604429919826" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1604503833893">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1604504148345">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604503833893" />
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604504148345" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1604505743852">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604505743852" />
     <state width="1860" height="316" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1604503833893">
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1604505743851">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604503833893" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604505743851" />
     <state width="1860" height="316" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1604503833893">
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1604505743850">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604503833893" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604505743850" />
     <state width="1860" height="316" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1604503833893">
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1604505743852">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604503833893" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604505743852" />
     <state width="1860" height="316" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604322178397" />
     <state width="1860" height="367" key="GridCell.Tab.1.bottom" timestamp="1604322117853">
       <screen x="0" y="0" width="1920" height="1040" />
