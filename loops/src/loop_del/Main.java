@@ -6,7 +6,7 @@ public class Main {
     static Scanner s = new Scanner(System.in);
     public static void main(String[] args) {
         System.out.println("Введите произвольное число");
-        int a =s.nextInt();
+        int a = s.nextInt();
         int b = 1;
         int n = 0;
         while (b <= a){
