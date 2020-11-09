@@ -7,11 +7,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Введите год");
         int n =s.nextInt();
-        boolean b = (n % 100 == 0) & (n % 400 == 0) | (n % 4 == 0);
-        if (b){
-            System.out.println("Год высокосный");
-        }else {
-            System.out.println("Год не высокосный");
-        }
+        boolean t = (n % 100 == 0) ? ((n % 400 == 0) ? true : false) : ((n % 4 == 0) ? true : false);
+        System.out.println(t ? "Год высокосный" : "Год не высокосный");
     }
 }

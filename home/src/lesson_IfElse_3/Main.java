@@ -11,11 +11,7 @@ public class Main {
         int b =s.nextInt();
         System.out.println("Введите число c ");
         int c =s.nextInt();
-        boolean t = (a == b) | (a == c) | (b == c);
-        if (t){
-            System.out.println("Треугольник равнобедренный");
-        }else {
-            System.out.println("Треугольник не равнобедренный");
-        }
+        boolean t = (a == b) ? true : (b == c) ? true : (c == a) ? true : false;
+        System.out.println(t ? "Треугольник равнобедренный" : "Треугольник не равнобедренный");
     }
 }

@@ -11,13 +11,9 @@ public class Main {
         int b =s.nextInt();
         System.out.println("Введите число c ");
         int c =s.nextInt();
-        boolean A = (a+b > c);
-        boolean B = (a+c > b);
-        boolean C = (b+c > a);
-        if (A && B && C){
-            System.out.println("Да, треугольник существует.");
-        }else {
-            System.out.println("Нет, триугольник несуществует");
-        }
+        boolean A = (a+b > c) ? true : false;
+        boolean B = (a+c > b) ? true : false;
+        boolean C = (b+c > a) ? true : false;
+        System.out.println(A && B && C ? "Да, треугольник существует" : "Нет, триугольник несуществует");
     }
 }
