@@ -12,6 +12,7 @@ public class Main {
     int min = 186;
     int nmax = 0;
     int nmin = 0;
+    int sum = 0;
     for (int i = 0; i < n; i++) {
         if (arr1[i] <= min) {
             min = arr1[i];
@@ -21,17 +22,16 @@ public class Main {
             max = arr1[i];
             nmax = i;
         }
-        System.out.println(arr1[i]);
     }
+        for (int i = 0; i < 10; i++) {
+            sum = arr1[i] + sum;
+        }
+        double y =sum/15;
+
     System.out.println("Самый низкий " + min + "; В списке под номеом " + nmin);
     System.out.println("Самый высокий " + max + "; В списке под номеом " + nmax);
-        int a = 0;
-        for (int i = 0; i < 10; i++) {
-            System.out.println("Введите " + (i+1) + " число");
-            a+=arr1[i];
-        }
-        System.out.println("Сумма 15 чисел = " + a);
-        double y =a/15;
-        System.out.println("Среднее 10 чисел = " + y);
+
+        System.out.println("Сумма 15 чисел = " + sum);
+        System.out.println("Среднее 15 чисел = " + y);
     }
 }
