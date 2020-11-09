@@ -40,6 +40,7 @@ public class Main {
         for (int i = 0; i < n; i++) {
             System.out.print(arr3[i] + " ");
         }
+        System.out.println();
         for (int i = 0; i < n; i++) {
             System.out.println(arr4[i]);
         }
