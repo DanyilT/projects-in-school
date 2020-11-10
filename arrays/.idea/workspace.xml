@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48bd15ea-235f-49e4-8f18-802aa552561d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array_vubor1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array_vubor2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_vubor3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../loops/src/loop_sum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loops/src/loop_sum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array_vubor2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array_vubor2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +136,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604485926888" />
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1605036299935">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1605036299935" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1605021049159">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -167,9 +172,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1144" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604488082419" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605020515286">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="466" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1605036237558">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
+    <state x="466" y="254" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1605036237558" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605020515286" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1604926314527">
       <screen x="0" y="0" width="1920" height="1040" />

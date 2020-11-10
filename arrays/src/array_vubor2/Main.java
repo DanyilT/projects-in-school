@@ -3,7 +3,7 @@ package array_vubor2;
 public class Main {
     public static void main(String[] args) {
         int n = 0;
-        int[] arr1 = new int[30];
+        int[] arr1 = new int[20];
         for (int i = 0; i < 20; i++) {
             arr1[i] = (int) Math.floor(Math.random() * 160) - 70;
         }
@@ -18,7 +18,7 @@ public class Main {
                 n++;
             }
         }
-            int j = 0;
+        int j = 0;
         int[]arr2 = new int[n];
         for (int i = 0; i < 20; i++) {
             if (arr1[i] > sr) {
