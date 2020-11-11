@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae14c665-57ab-495e-91f6-4d32d66ee143" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/arrays/src/array_vv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/arrays/src/array_vv/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/loops/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ae14c665-57ab-495e-91f6-4d32d66ee143" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +25,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="ServiceViewManager">
@@ -54,5 +52,11 @@
       <updated>1604487966174</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1605036054104">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1605036054104" />
   </component>
 </project>
