@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b041884c-9f65-4ac0-9ac9-0aaffc927b09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/calculator/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculator/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects1/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objects1/Wheel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\10 classs\java\InCaps\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kN8cngGtNdd5d4MhU6fW1Buwfl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b041884c-9f65-4ac0-9ac9-0aaffc927b09" name="Default Changelist" comment="" />
+      <created>1605529770593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605529770593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1605529773681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605529773681" />
+  </component>
+</project>
