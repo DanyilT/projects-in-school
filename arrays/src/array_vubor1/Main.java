@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
         int n = 0;
         int[] arr1 = new int[30];
-        for (int i = 0; i < 30; i++) {
-            arr1[i] = (int) Math.floor(Math.random() * 200) - 100;
+        for (int i = 0; i < 30; i++) {                              //[-100;100]
+            arr1[i] = (int) Math.floor(Math.random() * 200) - 100; //(.....()'100 - (- 100)') - 100
             }
         for (int i = 0; i < 30; i++) {
             if (arr1[i] > 0) n++;

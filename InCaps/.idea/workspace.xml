@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b041884c-9f65-4ac0-9ac9-0aaffc927b09" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/myStatic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parallelepiped/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parallelepiped/Par.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parallelepiped/SVPar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parallelepiped/View.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/box/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rectangle/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/box/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rectangle/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/box/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rectangle/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/box/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rectangle/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/array_vubor1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/array_vubor1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,25 +145,25 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="815" y="295" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1605684935258" />
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1606151700713">
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom" timestamp="1606152370639">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606151700713" />
+    <state width="1323" height="138" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606152370639" />
     <state width="1877" height="211" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605624909085" />
-    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1606151700713">
+    <state width="1323" height="138" key="GridCell.Tab.0.center" timestamp="1606152370639">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606151700713" />
+    <state width="1323" height="138" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606152370639" />
     <state width="1877" height="211" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605624909085" />
-    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1606151700713">
+    <state width="1323" height="138" key="GridCell.Tab.0.left" timestamp="1606152370639">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606151700713" />
+    <state width="1323" height="138" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606152370639" />
     <state width="1877" height="211" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605624909085" />
-    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1606151700713">
+    <state width="1323" height="138" key="GridCell.Tab.0.right" timestamp="1606152370639">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606151700713" />
+    <state width="1323" height="138" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606152370639" />
     <state width="1877" height="211" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605624909085" />
     <state x="466" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1606060336198">
       <screen x="0" y="0" width="1366" height="768" />
