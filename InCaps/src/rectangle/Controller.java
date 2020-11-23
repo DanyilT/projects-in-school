@@ -5,7 +5,7 @@ public class Controller {
         int s = a * b;
         return s;
     }
-    int Volume (int a, int b){
+    int Perimeter (int a, int b){
         int p = (a + b) * 2;
         return p;
     }
