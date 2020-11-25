@@ -8,7 +8,7 @@ public class View {
         System.out.println("Объём прямоугольного паралелепипеда = V = " + o);
     }
     void printSV(int s, int v){
-        System.out.println("Площадь и объём прямоугольного паралелепипеда = S = " + s);
+        System.out.println("Площадь прямоугольного паралелепипеда = S = " + s);
         System.out.println("Объём прямоугольного паралелепипеда = V = " + v);
     }
 }
