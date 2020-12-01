@@ -15,7 +15,7 @@ public class Main {
         int index3 = a.indexOf("FOR");
         System.out.println(index3);
         System.out.println();
-//дз(начало)л
+//дз(начало)
         String d = "I am person, human/Я человек, и всё; больше ничего не придумал";
         System.out.print("Введите, то что хотите найти = ");
         String x = s.nextLine();
@@ -39,7 +39,7 @@ public class Main {
         change(aa, cc);
         change(dd, bb);
     }
-        static void change(int x, int y){
+    static void change(int x, int y){
             System.out.println(x + y);
     }
     static void change(double x, double y){
