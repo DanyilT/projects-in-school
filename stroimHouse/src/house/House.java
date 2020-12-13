@@ -15,6 +15,6 @@ class Door{
     int hight;//5
     Door(int h){//6
         hight = h;//7
-        System.out.println("constructor of class Door");//8
+        System.out.println("constructor of class Door");//8git
     }
 }
