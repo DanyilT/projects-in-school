@@ -3,23 +3,29 @@ package package1.pack1;
 import java.util.Scanner;
 
 public class Main {
-    static Scanner s = new Scanner(System.in);
+    static Scanner ss = new Scanner(System.in);
     public static void main(String[] args) {
         //sum
         System.out.print("Введите первый член арефметической прогресии ");
-        int a1 = s.nextInt();
+        double a1 = ss.nextDouble();
         System.out.print("Введите разность арефмитической прогресии ");
-        int d1 = s.nextInt();
+        double d1 = ss.nextDouble();
         System.out.print("Введите сумму какого количества членов требуется найти ");
-        int n1 = s.nextInt();
-        Sum s = new Sum(a1, d1);
+        double n1 = ss.nextDouble();
+        Sum_2 s = new Sum_2(a1, d1);
         double sum = s.sum(a1, d1, n1);
-        System.out.println("Суььа " + n1 + " членов арефметической прогресии = " + sum);
+        System.out.println("Сума " + n1 + " членов арефметической прогресии = " + sum);
         //n
         System.out.print("Введите первый член арефметической прогресии ");
-        int n2 = s.nextDouble();
+        double a2 = ss.nextDouble();
         System.out.print("Введите разность арефмитической прогресии ");
-        int d2 = s.nextInt();
-        N n = new N(n1, d2);
+        double d2 = ss.nextDouble();
+        System.out.print("Введите индекс искомого элемента:");
+        double n2 = ss.nextDouble();
+        N_3 n = new N_3(a2, d2);
+        double i = 12;
+        double N = n.i1(i);
+        System.out.println("Суььа " + n2 + " членов арефметической прогресии = " + sum);
+
     }
 }
