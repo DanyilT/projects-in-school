@@ -20,7 +20,7 @@ public class Car {
             this("Ferrari", 250, false);
     }
 
-    void displayInfo(){
-        System.out.printf("Модель: %s \t макс. скорость: %d \t есть люк: %s \n", model, maxSpeed, hasHatch);
+    public String toString(){
+        return "Модель: " + model + ", макс. скорость: " + maxSpeed + ", есть люк: " + (hasHatch?"есть":"нету");
     }
 }

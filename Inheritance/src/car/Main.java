@@ -3,14 +3,15 @@ package car;
 public class Main {
     public static void main(String[] args) {
         Car car = new Car();
-        car.displayInfo();
+        System.out.println(car);
 
         Car a =  new Car("Suzuki", 127, true);
-        a.displayInfo();
+        System.out.println(a);
 
         Car b = new Car("Ford", 9, true);
-        b.displayInfo();
+        System.out.println(b);
+
         Car c = new Car(110);
-        c.displayInfo();
+        System.out.println(c);
     }
 }
