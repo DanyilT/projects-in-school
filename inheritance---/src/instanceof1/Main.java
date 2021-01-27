@@ -1,4 +1,4 @@
-package instanceofs;
+package instanceof1;
 
 public class Main {
     public static void main(String[] args) {
@@ -25,10 +25,20 @@ public class Main {
         System.out.println(p);
         if (dog instanceof Animal){
             animal = dog;
+            System.out.println("1) animal = dog");
         }
         if (animal1_cat instanceof Dog){
             dog = (Dog)animal1_cat;
+        }else {
+            System.out.println("2) error");
         }
-
+        boolean u = cat instanceof Cat;
+        System.out.println(u);
+        if (u){
+            System.out.println("3) animal = cat");
+            animal = cat;
+        }else {
+            System.out.println("3) error");
+        }
     }
 }

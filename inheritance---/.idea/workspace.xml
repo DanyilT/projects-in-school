@@ -1,27 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e547209d-c27c-4f50-8d39-57c4411c4225" name="Default Changelist" comment="" />
+    <list default="true" id="e547209d-c27c-4f50-8d39-57c4411c4225" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/instanceof2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/EkkelTest/Banana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/EkkelTest/BananaPeel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/EkkelTest2/Leaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/KLthis/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/META-INF/Inheritance.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/car/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/car/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/finals/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/finals/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/flower/Flower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/hash_code3/BlackBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/inhVyazovsk/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/inheritance_polya/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_1/TestInPackage_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_2/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_2/TestInPackage_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/my_class/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Swallow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/personal/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/personal/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Crokozablik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Strauss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Swallow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/registrator/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/to_strings/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_circle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_circle/circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_point/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_point/point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_rectangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_rectangle/rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/EkkelTest/Banana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/EkkelTest/BananaPeel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/EkkelTest2/Leaf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/KLthis/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/KLthis/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/car/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/car/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/finals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/finals/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/finals/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/flower/Flower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code3/BlackBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code3/Demo_BlackBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inhVyazovsk/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Mammal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Reptile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance_polya/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance_polya/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance_polya/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_1/TestInPackage_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_2/Parent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_2/TestInPackage_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/my_class/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Swallow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/personal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/personal/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/polimorphism/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/registrator/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/to_strings/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_circle/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_circle/circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_point/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_point/point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_rectangle/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_rectangle/rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inheritance---/instanceofs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance---/instanceofs/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceofs/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceofs/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceofs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceofs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\10 classs\java\inheritance---\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1ne9Wytb9vYttkxxDF0GMJKGoTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="instanceofs.Main" />
+      <option name="MAIN_CLASS_NAME" value="instanceof2.Main" />
       <module name="inheritance---" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="instanceofs.*" />
+          <option name="PATTERN" value="instanceof2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -42,8 +168,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="instanceof1.Main" />
+      <module name="inheritance---" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="instanceof1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -75,22 +215,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1611739856927">
+    <state width="1046" height="165" key="GridCell.Tab.0.bottom" timestamp="1611740671322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611739856927" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1611739856927">
+    <state width="1046" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671322" />
+    <state width="1046" height="165" key="GridCell.Tab.0.center" timestamp="1611740671321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611739856927" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1611739856927">
+    <state width="1046" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671321" />
+    <state width="1046" height="165" key="GridCell.Tab.0.left" timestamp="1611740671321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611739856927" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1611739856927">
+    <state width="1046" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671321" />
+    <state width="1046" height="165" key="GridCell.Tab.0.right" timestamp="1611740671322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611739856927" />
+    <state width="1046" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671322" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611739728941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
