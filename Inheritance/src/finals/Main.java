@@ -5,9 +5,9 @@ public class Main {
         int x = 10;
         x++;
         System.out.println(x);
-        Human h1 = new Human("Artem/Fox", "Kyiv/Forest", 60, 16);
-        Human h2 = new Human("Danyil", "Kyiv", 60, 16);
-        final Human dany = new Human("Misha", "Varhadskiy", 50, 16);
+        Human h1 = new Human("Forest", 60, 16);
+        Human h2 = new Human("Kyiv", 30, 14);
+        final Human dany = new Human("Varhadskiy", 50, 21);
         Human [] AllBody = {h1, h2, dany};
         for (Human temp : AllBody) {
             System.out.println(temp);
@@ -26,9 +26,13 @@ class Human{
     int weight;
     final int birthday;
 
-    public Human(String NAME, String address, int weight, int birthday) {
+    public Human(String address, int weight, int birthday) {
         this.address = address;
         this.weight = weight;
         this.birthday = birthday;
+    }
+    @Override
+    public String toString() {
+        return "name = " + NAME + ", address = " + address  + ", weight = " + weight + ", birthday = " + birthday;
     }
 }
