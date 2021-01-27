@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e547209d-c27c-4f50-8d39-57c4411c4225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/instanceof2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grope/Grupe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grope/Sudent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" />
@@ -101,12 +102,9 @@
       <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_point/point.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_rectangle/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_rectangle/rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance---/instanceofs/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance---/instanceofs/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceofs/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceofs/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceofs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/instanceofs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inheritance---.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +142,7 @@
   <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="instanceof2.Main" />
-      <module name="inheritance---" />
+      <module name="inheritance" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="instanceof2.*" />
@@ -157,7 +155,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="finals.Main" />
-      <module name="inheritance---" />
+      <module name="inheritance" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="finals.*" />
@@ -170,13 +168,60 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="instanceof1.Main" />
-      <module name="inheritance---" />
+      <module name="inheritance" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="instanceof1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="inheritance" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="inheritance" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,22 +260,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1046" height="165" key="GridCell.Tab.0.bottom" timestamp="1611740671322">
+    <state width="1046" height="165" key="GridCell.Tab.0.bottom" timestamp="1611741076360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671322" />
-    <state width="1046" height="165" key="GridCell.Tab.0.center" timestamp="1611740671321">
+    <state width="1046" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076360" />
+    <state width="1046" height="165" key="GridCell.Tab.0.center" timestamp="1611741076358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671321" />
-    <state width="1046" height="165" key="GridCell.Tab.0.left" timestamp="1611740671321">
+    <state width="1046" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076358" />
+    <state width="1046" height="165" key="GridCell.Tab.0.left" timestamp="1611741076357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671321" />
-    <state width="1046" height="165" key="GridCell.Tab.0.right" timestamp="1611740671322">
+    <state width="1046" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076357" />
+    <state width="1046" height="165" key="GridCell.Tab.0.right" timestamp="1611741076359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611740671322" />
+    <state width="1046" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076359" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611739728941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

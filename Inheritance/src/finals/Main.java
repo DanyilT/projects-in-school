@@ -5,15 +5,9 @@ public class Main {
         int x = 10;
         x++;
         System.out.println(x);
-<<<<<<< HEAD
         Human h1 = new Human("Forest", 60, 16);
         Human h2 = new Human("Kyiv", 30, 14);
         final Human dany = new Human("Varhadskiy", 50, 21);
-=======
-        Human h1 = new Human("Kyiv/Forest", 60, 16);
-        Human h2 = new Human("Kyiv", 60, 16);
-        final Human dany = new Human("Varhadskiy", 50, 16);
->>>>>>> 2cb3c517852b59bb9d6ffdd37c83a2f7fdda8234
         Human [] AllBody = {h1, h2, dany};
         for (Human temp : AllBody) {
             System.out.println(temp);
