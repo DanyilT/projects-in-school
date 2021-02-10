@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e547209d-c27c-4f50-8d39-57c4411c4225" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
@@ -15,6 +16,15 @@
       <change beforePath="$PROJECT_DIR$/src/group/Sudent.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/group/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/instanceof1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Main.java" afterDir="false" />
+=======
+    <list default="true" id="2d09fa26-8458-47d8-b838-2255995a3796" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/polimorphism_CovariantReturns/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorphism_CovariantReturns/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorphism_CovariantReturns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polimorphism_CovariantReturns/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/inheritance/final_hashCode_instanceof/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance/final_hashCode_instanceof/Main.class" afterDir="false" />
+>>>>>>> 1e1aeee3d16d77c8ddfda87a26c32e2ba385200b
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,6 +102,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
+<<<<<<< HEAD
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -105,6 +116,9 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
+=======
+  <component name="RunManager" selected="Application.Main (4)">
+>>>>>>> 1e1aeee3d16d77c8ddfda87a26c32e2ba385200b
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="instanceof2.Main" />
       <module name="inheritance" />
@@ -119,11 +133,45 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
       <option name="MAIN_CLASS_NAME" value="instanceof1.Main" />
       <module name="inheritance" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="instanceof1.*" />
+=======
+      <option name="MAIN_CLASS_NAME" value="car.Main" />
+      <module name="inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="final_hashCode_instanceof.Main" />
+      <module name="inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="final_hashCode_instanceof.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polimorphism_CovariantReturns.Main" />
+      <module name="inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polimorphism_CovariantReturns.*" />
+>>>>>>> 1e1aeee3d16d77c8ddfda87a26c32e2ba385200b
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,6 +193,22 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<<<<<<< HEAD
+=======
+      <option name="MAIN_CLASS_NAME" value="user.Main" />
+      <module name="inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+>>>>>>> 1e1aeee3d16d77c8ddfda87a26c32e2ba385200b
       <option name="MAIN_CLASS_NAME" value="instanceof1.Main" />
       <module name="inheritance" />
       <extension name="coverage">
@@ -159,10 +223,14 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
+>>>>>>> 1e1aeee3d16d77c8ddfda87a26c32e2ba385200b
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -223,6 +291,7 @@
     </layout>
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1611742030092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -259,5 +328,53 @@
         </state>
       </provider>
     </entry>
+=======
+    <state x="794" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1612337397244">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="794" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1612178058123" />
+    <state x="794" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1612337397244" />
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1612105454771">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1612105454771" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1612341615708">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1612179672570" />
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1612341615708" />
+    <state width="1046" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076360" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1612341615707">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1612179672569" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1612341615707" />
+    <state width="1046" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076358" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1612341615706">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1612179672569" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1612341615706" />
+    <state width="1046" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076357" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1612341615707">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="177" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1612179672569" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1612341615707" />
+    <state width="1046" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076359" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611739728941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611739728941" />
+    <state x="680" y="176" key="run.anything.popup" timestamp="1612340494837">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="680" y="176" key="run.anything.popup/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1612179428574" />
+    <state x="680" y="176" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1612340494837" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1612335523083">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1612335523083" />
+>>>>>>> 1e1aeee3d16d77c8ddfda87a26c32e2ba385200b
   </component>
 </project>
