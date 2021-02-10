@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/lesson91/Cat.java" line="14" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97ef080c-b7c8-44b6-83bb-4734cca63d50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson91/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson91/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inheritance/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/EkkelTest/Banana.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/EkkelTest/Banana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/EkkelTest/BananaPeel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/EkkelTest/BananaPeel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/EkkelTest2/Leaf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/EkkelTest2/Leaf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/KLthis/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/KLthis/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/KLthis/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/KLthis/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/car/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/car/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/finals/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/flower/Flower.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/flower/Flower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Group.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Group.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/group/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code2/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code2/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code3/BlackBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code3/BlackBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code3/Demo_BlackBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/hash_code3/Demo_BlackBox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inhVyazovsk/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inhVyazovsk/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Mammal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Mammal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Reptile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance/Reptile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance_polya/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance_polya/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance_polya/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance_polya/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance_polya/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/inheritance_polya/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/instanceof2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_1/TestInPackage_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_1/TestInPackage_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_2/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_2/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_2/TestInPackage_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/modifiers/package_2/TestInPackage_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/my_class/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/my_class/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Swallow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/overriding/Swallow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/personal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/personal/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/personal/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/personal/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Crokozablik.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Crokozablik.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Penguin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Penguin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Strauss.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Strauss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Swallow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/polimorphism/Swallow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/registrator/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/registrator/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/to_strings/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/to_strings/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_circle/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_circle/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_circle/circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_circle/circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_point/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_point/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_point/point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_point/point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_rectangle/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_rectangle/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_rectangle/rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/out/production/inheritance/uml/package_rectangle/rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/grope/Grupe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/grope/Sudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/group/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/group/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/group/Grupe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/group/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/group/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/group/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/group/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/group/Sudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/group/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/group/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceof1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/instanceof1/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lesson91/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson91/Cat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#275#276#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/lesson91/Cat.java" />
+        <option value="$PROJECT_DIR$/src/lesson91/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson91" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612954201428" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson91.Main" />
+      <module name="1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson91.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97ef080c-b7c8-44b6-83bb-4734cca63d50" name="Default Changelist" comment="" />
+      <created>1612950141019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612950141019</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25164112" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/lesson91/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson91/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="51" column="27" lean-forward="true" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -2,114 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e547209d-c27c-4f50-8d39-57c4411c4225" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/grope/Grupe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grope/Sudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/EkkelTest/Banana.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/EkkelTest/BananaPeel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/EkkelTest2/Leaf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/KLthis/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/META-INF/Inheritance.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/car/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/finals/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/finals/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/flower/Flower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/hash_code3/BlackBox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/inhVyazovsk/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/inheritance_polya/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/instanceofs/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_1/TestInPackage_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_2/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/modifiers/package_2/TestInPackage_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/my_class/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Penguin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/overriding/Swallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/personal/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/personal/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Crokozablik.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Penguin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Strauss.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/polimorphism/Swallow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/registrator/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/to_strings/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_circle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_circle/circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_point/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_point/point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_rectangle/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/uml/package_rectangle/rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/EkkelTest/Banana.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/EkkelTest/BananaPeel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/EkkelTest2/Leaf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/KLthis/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/KLthis/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/car/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/car/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/finals/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/finals/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/finals/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/flower/Flower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code2/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code3/BlackBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/hash_code3/Demo_BlackBox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inhVyazovsk/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Mammal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance/Reptile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance_polya/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance_polya/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/inheritance_polya/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Cat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/instanceofs/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_1/TestInPackage_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_2/Parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/modifiers/package_2/TestInPackage_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/my_class/MyClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Bird.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Penguin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/overriding/Swallow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/personal/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/personal/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/polimorphism/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/registrator/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/to_strings/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_circle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_circle/circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_point/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_point/point.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_rectangle/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Inheritance/src/uml/package_rectangle/rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inheritance---.iml" beforeDir="false" afterPath="$PROJECT_DIR$/inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grope/Grupe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/grope/Sudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group/Group.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group/Grupe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group/Sudent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/group/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/group/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/instanceof1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/instanceof1/Main.java" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -128,8 +43,45 @@
       </set>
     </option>
   </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1ne9Wytb9vYttkxxDF0GMJKGoTC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="inheritance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="car" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -137,15 +89,41 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="instanceof2.Main" />
       <module name="inheritance" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="instanceof2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="instanceof1.Main" />
+      <module name="inheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="instanceof1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,55 +157,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="inheritance" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="inheritance" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -259,26 +191,73 @@
     </task>
     <servers />
   </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="20" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1046" height="165" key="GridCell.Tab.0.bottom" timestamp="1611741076360">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1611742030092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076360" />
-    <state width="1046" height="165" key="GridCell.Tab.0.center" timestamp="1611741076358">
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611742030092" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1611742030092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076358" />
-    <state width="1046" height="165" key="GridCell.Tab.0.left" timestamp="1611741076357">
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611742030092" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1611742030091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076357" />
-    <state width="1046" height="165" key="GridCell.Tab.0.right" timestamp="1611741076359">
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611742030091" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1611742030092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1046" height="165" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611741076359" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611739728941">
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611742030092" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1611741498544">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611739728941" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611741498544" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/car/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

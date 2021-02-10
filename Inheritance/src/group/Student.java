@@ -1,4 +1,5 @@
-package grope;
+package group;
 
-public class Sudent {
+public class Student extends Group {
+    int quantity = 10;
 }

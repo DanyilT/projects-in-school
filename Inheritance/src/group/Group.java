@@ -1,4 +1,5 @@
-package grope;
+package group;
 
-public class Grupe {
+public class Group {
+    int quantity = 210;
 }
