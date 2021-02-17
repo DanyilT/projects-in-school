@@ -24,9 +24,18 @@ public class Chocolate implements Comparable<Chocolate> {
 
     @Override
     public int compareTo(Chocolate o) {
+        int rezult = this.producer.compareTo(o.producer);
+        if (rezult == 0){
+            rezult = ((Integer)(this.price)).compareTo((Integer)((Chocolate)o).price);
+        }
+        if (rezult == 0){
+            rezult = ((Integer)(this.weight)).compareTo((Integer)((Chocolate)o).weight);
+        }
+        if (rezult == 0){
+            rezult = this.name.compareTo(((Chocolate)o).name);
+        }
+        return rezult;
 
-        return this.producer.compareTo(o.producer);
-        //this.name.compareTo(o.name)
     }
 }
 
