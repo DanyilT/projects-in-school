@@ -15,16 +15,13 @@ public class Main {
         ChocolateList.add(new Chocolate("iVan",95,67,"MmmmmmX"));
         ChocolateList.add(new Chocolate("Good",300,99, "Uhy"));
         ChocolateList.add(new Chocolate("Batman",199,54,"Joker"));
-        ChocolateList.add(new Chocolate("Apple",188,344,"Pear"));
+        ChocolateList.add(new Chocolate("Good",300,99,"Pear"));
 
         Chocolate[] array = new Chocolate[ChocolateList.size()];
         ChocolateList.toArray(array);
         Arrays.sort(array);
         for(Chocolate temp : array){
-            System.out.println(temp);
+            System.out.println(temp + " ");
         }
-        ChocolateList.sort(new SortByPrice());
-        System.out.println("--------------------------------------------------------------------");
-        System.out.print(ChocolateList);
     }
 }

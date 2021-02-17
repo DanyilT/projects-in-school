@@ -16,12 +16,10 @@ public class Chocolate implements Comparable<Chocolate> {
         this.weight = weight;
         this.name = name;
     }
-
     @Override
     public String toString() {
         return "Chocolate: " + ", producer = " + producer + ", price = " + price + ", weight = " + weight + ", name = " + name;
     }
-
     @Override
     public int compareTo(Chocolate o) {
         int rezult = this.producer.compareTo(o.producer);
@@ -35,13 +33,5 @@ public class Chocolate implements Comparable<Chocolate> {
             rezult = this.name.compareTo(((Chocolate)o).name);
         }
         return rezult;
-
-    }
-}
-
-class SortByPrice implements Comparator<Chocolate> {
-    @Override
-    public int compare(Chocolate o1, Chocolate o2) {
-        return o1.price - o2.price;
     }
 }

@@ -24,6 +24,7 @@ public class Main {
         for (Cat temp : myCats){
             System.out.println(temp + " ");
         }
+        System.out.println("____________________________________________________");
         System.out.println("sort by price, after name, after color and after age");
     }
 }
