@@ -50,6 +50,8 @@ public class Main {
         }
 
         Arrays.sort(array);
+
+
         for(Cat temp : array){
             System.out.println(temp); //после сорнтировки
         }
