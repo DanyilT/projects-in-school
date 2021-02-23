@@ -23,5 +23,8 @@ public class Main {
         for(Chocolate temp : array){
             System.out.println(temp + " ");
         }
+        System.out.println();
+        System.out.println("sort by producer, after price, after weight and after name");
+
     }
 }
