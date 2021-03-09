@@ -38,7 +38,8 @@ public class Main {
             System.out.println("3) animal = cat");
             animal = cat;
         }else {
-            System.out.println("3) error");
+            System.out.println("3) egt" +
+                    "rror");
         }
     }
 }
