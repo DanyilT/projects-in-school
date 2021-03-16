@@ -8,7 +8,6 @@ public class Dispatcher {
         System.out.println("Start");
         try {
             System.out.println(x/y);
-            //Из-за ошибки, это не будет выведено
             System.out.println("After divided");
             System.out.println(a[2]);
             System.out.println("After arrays element");
