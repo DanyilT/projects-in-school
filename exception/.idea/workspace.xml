@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1514ff6b-8964-4bc8-b005-c80fefeddf13" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../My/My.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../My/src/hello/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PR_throws_1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PR_throws_2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PR_throws_3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exception7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PR_ArithmeticExceptionArrayIndexOfBoundsException_1/SimpleExt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PR_ArithmeticExceptionArrayIndexOfBoundsException_2/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PR_ArithmeticExceptionArrayIndexOfBoundsException_3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exception1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/exception1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exception5/Exception1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/exception5/Exception1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exception5/Exception2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/exception5/Exception2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exception5/Exception3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/exception5/Exception3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exception5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/exception5/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exceptions4/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exceptions4/file1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exceptions4/file2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exceptions4/file3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/exceptions4/file4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/lesson101/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/lesson101/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/lesson101/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/lesson101/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/lesson101/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/lesson101/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exception/lesson102/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exception/lesson102/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions4/file1" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception4/file1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions4/file2" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception4/file2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions4/file3" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception4/file3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions4/file4" beforeDir="false" afterPath="$PROJECT_DIR$/src/exception4/file4" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -61,13 +36,13 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1614603971823" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PR_teoria_throws.Main1" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Dispatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PR_ArithmeticExceptionArrayIndexOfBoundsException_2.Dispatcher" />
       <module name="exception" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PR_teoria_throws.*" />
+          <option name="PATTERN" value="PR_ArithmeticExceptionArrayIndexOfBoundsException_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,11 +51,24 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exception5.Main" />
+      <option name="MAIN_CLASS_NAME" value="PR_ArithmeticExceptionArrayIndexOfBoundsException_3.Main" />
       <module name="exception" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exception5.*" />
+          <option name="PATTERN" value="PR_ArithmeticExceptionArrayIndexOfBoundsException_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleExt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PR_ArithmeticExceptionArrayIndexOfBoundsException_1.SimpleExt" />
+      <module name="exception" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PR_ArithmeticExceptionArrayIndexOfBoundsException_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PR_throws_1.Solution" />
-      <module name="exception" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PR_throws_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Dispatcher" />
+        <item itemvalue="Application.SimpleExt" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -177,33 +152,33 @@
     </state>
     <state x="868" y="206" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1615751268808" />
     <state x="1220" y="279" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614760826071" />
-    <state width="1323" height="196" key="GridCell.Tab.0.bottom" timestamp="1615800601332">
+    <state width="637" height="181" key="GridCell.Tab.0.bottom" timestamp="1615887152387">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1615800601332" />
     <state width="1877" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615385804464" />
-    <state width="1323" height="196" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615800025948" />
+    <state width="637" height="181" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1615887152387" />
     <state width="1877" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1614766007947" />
-    <state width="1323" height="196" key="GridCell.Tab.0.center" timestamp="1615800601330">
+    <state width="637" height="181" key="GridCell.Tab.0.center" timestamp="1615887152385">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1615800601330" />
     <state width="1877" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615385804463" />
-    <state width="1323" height="196" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615800025945" />
+    <state width="637" height="181" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1615887152385" />
     <state width="1877" height="218" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1614766007947" />
-    <state width="1323" height="196" key="GridCell.Tab.0.left" timestamp="1615800601330">
+    <state width="637" height="181" key="GridCell.Tab.0.left" timestamp="1615887152383">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1615800601330" />
     <state width="1877" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615385804463" />
-    <state width="1323" height="196" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615800025944" />
+    <state width="637" height="181" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1615887152383" />
     <state width="1877" height="218" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1614766007947" />
-    <state width="1323" height="196" key="GridCell.Tab.0.right" timestamp="1615800601331">
+    <state width="637" height="181" key="GridCell.Tab.0.right" timestamp="1615887152386">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@0.0.1366.768" timestamp="1615800601331" />
     <state width="1877" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1615385804464" />
-    <state width="1323" height="196" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615800025947" />
+    <state width="637" height="181" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1615887152386" />
     <state width="1877" height="218" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1614766007947" />
     <state x="466" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1615292384796">
       <screen x="0" y="0" width="1366" height="768" />
