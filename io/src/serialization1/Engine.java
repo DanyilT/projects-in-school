@@ -1,7 +1,5 @@
 package serialization1;
 
-import java.io.Serializable;
-
 public class Engine {
     int power;
     String producer;

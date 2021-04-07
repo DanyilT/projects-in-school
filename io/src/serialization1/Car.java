@@ -5,13 +5,13 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
-public class Car implements Serializable {
+public class Car extends Mashine implements Serializable {
     int price;
     String model;
     transient Engine engine;
-    Mashine  mashine;
 
-    public Car(int price, String model, Engine engine, Mashine mashine) {
+    public Car(int weight, int price, String model, Engine engine) {
+        super(weight);
         this.price = price;
         this.model = model;
         this.engine = engine;
