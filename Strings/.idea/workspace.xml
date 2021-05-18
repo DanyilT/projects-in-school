@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="094a8ef6-9b0a-4f96-948e-14383781ecb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/StringBulder_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Strings/_03_/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/_03_/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_03_/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_02_.Main" />
       <module name="Strings" />
@@ -64,6 +68,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_3.Main" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBulder_3.Main" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringBulder_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_01_.Main" />
       <module name="Strings" />
@@ -77,11 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strin.Main" />
+      <module name="Strings" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -111,25 +156,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1621249990113">
+    <state x="607" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1621340721982">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621249990113" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1621249990113">
+    <state x="607" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621340721982" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1621342642624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621249990113" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1621249990113">
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1621342642624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621249990113" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1621249990113">
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1621342642624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621249990113" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621338896186">
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1621342642624">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621338896186" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621340684080">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621340684080" />
   </component>
 </project>

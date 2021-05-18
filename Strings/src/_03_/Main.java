@@ -18,7 +18,7 @@ public class Main {
         System.out.println("Replace word \"игрушки\" on \"зверюшки\" = " + peremennayvprakticheskoupostringam.replace(8,15,"зверюшки"));
 
         //5
-        System.out.println("The word in high letters = " + peremennayvprakticheskoupostringam.toString().toUpperCase());
+        System.out.println("The words in high letters = " + peremennayvprakticheskoupostringam.toString().toUpperCase());
 
         //6
         System.out.println("Revers = " + peremennayvprakticheskoupostringam.reverse());
