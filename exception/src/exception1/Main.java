@@ -5,11 +5,14 @@ public class Main {
         int x = 30;
         int y = 0;
         int[] z = {1, 2, 3};
-        divide(x, y);
         try {
             display(z);
-        } catch (ArrayIndexOutOfBoundsException aie) {
-            System.out.println(aie);
+            divide(x, y);
+        } catch (RuntimeException re) {
+            System.out.println("Catch inside main");
+            System.out.println(re);
+        }finally {
+            System.out.println("Закончилась проверка масива");
         }
     }
     static void divide(int a, int b) {
@@ -17,9 +20,15 @@ public class Main {
             System.out.println(a / b);
         } catch (ArithmeticException ae) {
             System.out.println(ae);
+        }finally {
+            System.out.println("Close divide");
         }
     }
     static void display(int [] q){
-        System.out.println(q[3]);
+        try {
+            System.out.println(q[3]);
+        }finally {
+            System.out.println("Close divide");
+        }
     }
 }

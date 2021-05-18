@@ -1,9 +1,9 @@
-package exceptions4;
+package exception4;
 
 import java.io.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         //№1
         File file1 = new File("src/exceptions4/file1"); //путь к файлу
         System.out.println(file1.length());
@@ -17,26 +17,26 @@ public class Main {
 
         //№3
         File file3 = new File("src/exceptions4/file3");
-        creat(file3);
+        create(file3);
 
         //№4
         File file4 = new File("src/exceptions4/file4");
         try {
-            creatFile(file4);
+            createFile(file4);
         }catch (IOException ioe){
             System.out.println(ioe);
         }
     }
 
     //№3
-    static void creat(File file){
+    static void create(File file) throws IOException{
         try {
-            creatFile(file);
+            createFile(file);
         }catch (IOException ioe) {
             System.out.println(ioe);
         }
     }
-    static void creatFile(File file)throws IOException{
+    static void createFile(File file)throws IOException{
         file.createNewFile();
     }
 }
