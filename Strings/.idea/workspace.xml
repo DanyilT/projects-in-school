@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="094a8ef6-9b0a-4f96-948e-14383781ecb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringBulder_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My/src/a/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/_01_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/_02_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/_03_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/pr_01_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/pr_02_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/pr_03_/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../varArgs/src/pr_04_/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../My/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Strings/_03_/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/_03_/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Strings/StringBulder_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Strings/StringBulder_3/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringBulder_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringBulder_3/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +48,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
   </component>
   <component name="RunManager" selected="Application.Main (4)">
@@ -160,25 +170,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="607" y="351" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621340721982" />
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1621342642624">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1621409011996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1621342642624">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621409011996" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1621409011996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1621342642624">
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621409011996" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1621409011996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1621342642624">
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621409011996" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1621409011996">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621342642624" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621340684080">
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621409011996" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1621407790401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621340684080" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621407790401" />
+    <state x="342" y="141" key="new project wizard" timestamp="1621408583705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1621408583705" />
   </component>
 </project>
