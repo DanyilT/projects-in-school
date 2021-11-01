@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="343.0" prefWidth="324.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lesson_12_02.Controller">
+   <children>
+      <Button id="minus" alignment="BASELINE_CENTER" contentDisplay="CENTER" layoutX="40.0" layoutY="67.0" mnemonicParsing="false" onAction="#ButtonMinus" prefHeight="12.0" prefWidth="87.0" text="Minus" textAlignment="CENTER" textOverrun="CLIP" underline="true" wrapText="true">
+         <font>
+            <Font name="Segoe Script Bold" size="18.0" />
+         </font>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+         <cursor>
+            <Cursor fx:constant="CROSSHAIR" />
+         </cursor>
+         <textFill>
+            <LinearGradient endX="0.7428571428571429" endY="1.0" startX="0.3904761904761905" startY="0.638095238095238">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.6184210777282715" green="0.12311159819364548" blue="0.12311159819364548" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="1.0" green="0.46759259700775146" blue="0.46759259700775146" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Button>
+      <Button id="plus" alignment="BASELINE_CENTER" contentDisplay="CENTER" layoutX="46.0" layoutY="177.0" mnemonicParsing="false" onAction="#ButtonPlus" prefHeight="45.0" prefWidth="87.0" text="Plus" textAlignment="CENTER" textOverrun="CLIP" underline="true" wrapText="true">
+         <font>
+            <Font name="Segoe Print" size="18.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="CROSSHAIR" />
+         </cursor>
+         <textFill>
+            <LinearGradient endX="0.7428571428571429" endY="1.0" startX="0.3904761904761905" startY="0.638095238095238">
+               <stops>
+                  <Stop>
+                     <color>
+                        <Color red="0.10148635506629944" green="0.44736841320991516" blue="0.13607455790042877" />
+                     </color>
+                  </Stop>
+                  <Stop offset="1.0">
+                     <color>
+                        <Color red="0.490123450756073" green="1.0" blue="0.45370370149612427" />
+                     </color>
+                  </Stop>
+               </stops>
+            </LinearGradient>
+         </textFill>
+      </Button>
+      <Label id="number" fx:id="number" contentDisplay="CENTER" layoutX="154.0" layoutY="67.0" prefHeight="176.0" prefWidth="161.0" text="0" textAlignment="CENTER" textFill="#742297" wrapText="true">
+         <font>
+            <Font name="Segoe Script" size="96.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

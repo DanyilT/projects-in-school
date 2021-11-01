@@ -1,0 +1,5 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../dont_touch\.idea/codestream.xml
